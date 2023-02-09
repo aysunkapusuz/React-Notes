@@ -6,7 +6,7 @@
 // React elements represent what the user will see on the page
 
 // This is JSX
-const reactElement = <h1>Code Ryan</h1>
+const reactElement = <h1>Hello World</h1>
 
 // It looks quite similar to  HTML element,
 // but in React, it is actually just a JS Object that represents on HTML element
