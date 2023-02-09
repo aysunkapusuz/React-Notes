@@ -27,4 +27,4 @@
 //JSX(It's a syntax looks like HTML but it is actually JS), Virtual DOM improving performance, one-way data flow(data can only flow from parent to child), strong community
 
 //What to know before React
-// HTML, CSS, JS
+// HTML, CSS, JS.
