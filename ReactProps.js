@@ -54,3 +54,8 @@ function App (){
         </>
     )
 }
+
+// props.children
+
+//Same as props, but you pass children in the opening and closing JSX tags
+// example <ReactComponent>Children Go Here </ReactComponent>
