@@ -16,7 +16,7 @@
 
 function SayHello(){
     return (
-        <h1>Hey</h1>
+        <h1>Hello World</h1>
     )
 }
 
